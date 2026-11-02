@@ -1,0 +1,10 @@
+{
+  "threshold_frp": 5.578,
+  "min_frp_quantile": 0.1,
+  "good_days": 67,
+  "total_days": 73,
+  "ratio_good_days": 0.98,
+  "daily_corr_good_days": 0.22,
+  "weekly_corr": 0.29,
+  "weeks_used": 9
+}

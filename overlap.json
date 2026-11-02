@@ -1,0 +1,8 @@
+{
+  "modis_cells": 501,
+  "viirs_cells": 492,
+  "exact_overlap": 51,
+  "exact_pct_of_modis": 10.2,
+  "near_overlap": 80,
+  "near_pct_of_modis": 16.0
+}
