@@ -8,7 +8,7 @@ import streamlit as st
 
 st.set_page_config(page_title="MODIS + VIIRS Harmonization", page_icon="🔥", layout="wide")
 
-DATA = Path(__file__).parent / "data"
+DATA = Path(__file__).parent 
 COLORS = {"MODIS": "#d95f02", "VIIRS": "#1b6ca8"}
 
 
